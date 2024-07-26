@@ -27,7 +27,7 @@ setup(
     long_description=long_desc,
     long_description_content_type='text/markdown',
 
-    python_requires='>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, <3.12',
+    python_requires='>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, <3.13',
     setup_requires=['setuptools_scm'],
 
     classifiers=[
